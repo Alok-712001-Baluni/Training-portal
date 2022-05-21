@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://alok123:Papa%4012345@cluster0.jjgtr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "secretOrKey": "mysecret123"
+}
